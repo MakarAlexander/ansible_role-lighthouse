@@ -1,4 +1,4 @@
-Role Name
+Lighthouse Ansible role
 =========
 
 Роль для установки [Lighthouse](https://github.com/VKCOM/lighthouse) - легковесный GUI для Clickhouse
